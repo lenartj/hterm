@@ -1,0 +1,29 @@
+{
+  "name": "hterm",
+  "homepage": "https://github.com/lenartj/hterm",
+  "authors": [
+    "Janos Lenart <janos@lenart.io>"
+  ],
+  "description": "hterm provides a terminal emulator",
+  "main": [
+    "js/hterm.js"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "hterm",
+    "xterm",
+    "terminal",
+    "terminal emulator",
+    "emulator"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lenartj/hterm.git"
+  },
+  "license": "BSD-3-Clause",
+  "ignore": [
+    "**/.*"
+  ]
+}
